@@ -23,7 +23,7 @@
 3.  Обучение
     - 3.1  LinearRegression
     - 3.2  RandomForestRegressor
-    - 3.5  CatBoostRegressor
+    - 3.3  CatBoostRegressor
 4.  Тестирование
 
 
