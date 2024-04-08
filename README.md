@@ -1,6 +1,6 @@
 # Yandex Practicum Data Science+ Projects.
 
-![Диплом о профессиональной переподготовке]()
+![Диплом о профессиональной переподготовке](https://github.com/kiselev-sergei/yandex_praktikum/blob/main/%D0%9A%D0%B8%D1%81%D0%B5%D0%BB%D0%B5%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_20232%D0%A6%D0%9F%D0%94%D0%A100013.pdf)
 
 Репозиторий с проектами программы курсов Яндекс Практикум по направлению Data Science+.
 
