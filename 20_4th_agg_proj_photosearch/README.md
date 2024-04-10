@@ -118,5 +118,5 @@
 
 ## Стек технологий:
 
-`pandas`, `matplotlib`, `numpy`, `math`, `nltk`, `ResNet18`, `torch`, `torchvision`, `GroupShuffleSplit`, `TfidfVectorizer`, `ElasticNet`
+`pandas`, `matplotlib`, `numpy`, `math`, `nltk`, `ResNet18`, `torch`, `torchvision`, `GroupShuffleSplit`, `TfidfVectorizer`, `ElasticNet`, `CatBoost`
    
